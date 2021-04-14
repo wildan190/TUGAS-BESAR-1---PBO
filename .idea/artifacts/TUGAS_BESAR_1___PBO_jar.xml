@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TUGAS BESAR 1 - PBO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TUGAS_BESAR_1___PBO_jar</output-path>
+    <root id="archive" name="TUGAS BESAR 1 - PBO.jar">
+      <element id="module-output" name="TUGAS BESAR 1 - PBO" />
+    </root>
+  </artifact>
+</component>
